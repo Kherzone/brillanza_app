@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "368715832190",
+    "project_id": "brillanza-47f0d",
+    "storage_bucket": "brillanza-47f0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368715832190:android:c495d631f07237f69c712f",
+        "android_client_info": {
+          "package_name": "com.example.brillanza_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368715832190-4chttm2l9ltdpv01v2p8pdp5j13nhd8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brillanza_app",
+            "certificate_hash": "c3233b9813661bb1c626e9398482297755b4be85"
+          }
+        },
+        {
+          "client_id": "368715832190-llhqi8ne9ptebces2176g461fhlkneps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brillanza_app",
+            "certificate_hash": "07757c24a3f2740b0649b75c750defd61cbec2f3"
+          }
+        },
+        {
+          "client_id": "368715832190-7qha162ptgclqkuua72erbhb00dfh49p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Q_seJY86dOLtuJJuw7ElTPLyWUN7mHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368715832190-7qha162ptgclqkuua72erbhb00dfh49p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368715832190-d7h8dilod5cbaain7miuh2luq0outaoe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brillanzaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
